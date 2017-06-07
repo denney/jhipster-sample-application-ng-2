@@ -26,7 +26,7 @@ import java.util.Optional;
 public class BankAccountResource {
 
 
-    
+
     private final Logger log = LoggerFactory.getLogger(BankAccountResource.class);
 
     private static final String ENTITY_NAME = "bankAccount";
