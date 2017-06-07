@@ -40,7 +40,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
  * @see WebConfigurer
  */
 public class WebConfigurerTest {
-    
+
 
     private WebConfigurer webConfigurer;
 
