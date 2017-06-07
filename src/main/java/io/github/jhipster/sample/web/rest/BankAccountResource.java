@@ -25,10 +25,12 @@ import java.util.Optional;
 @RequestMapping("/api")
 public class BankAccountResource {
 
+
+    
     private final Logger log = LoggerFactory.getLogger(BankAccountResource.class);
 
     private static final String ENTITY_NAME = "bankAccount";
-        
+
     private final BankAccountRepository bankAccountRepository;
 
     public BankAccountResource(BankAccountRepository bankAccountRepository) {
