@@ -26,7 +26,7 @@ import java.util.Optional;
 public class LabelResource {
 
 
-    
+
     private final Logger log = LoggerFactory.getLogger(LabelResource.class);
 
     private static final String ENTITY_NAME = "label";
