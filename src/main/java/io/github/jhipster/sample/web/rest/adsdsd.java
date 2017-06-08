@@ -5,4 +5,6 @@ package io.github.jhipster.sample.web.rest;
  */
 public class adsdsd {
 //    dsd
+//         第一次提交
+//   
 }
